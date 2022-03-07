@@ -1,5 +1,4 @@
 import React from 'react'
-import Bead from "./Bead"
 
 export default function Cup(props) {
   let className = props.position === 7 || props.position === 0 ? 
